@@ -3,7 +3,7 @@ EasyFood is an app that makes making food easier and gives you full information 
 
 # Preview
 
-![1](https://github.com/BaraaAbuAlrob/Training/assets/119497086/0d208166-18d6-4a50-8483-3276214ee53a)
+![1](https://github.com/BaraaAbuAlrob/EasyFood/assets/119497086/32693a9e-30f5-4acf-ac0e-a6291ee801b6)
 
 ![2](https://github.com/BaraaAbuAlrob/EasyFood/assets/119497086/e8259f7b-c7e4-412f-bd3b-7c1772644f49)
 
