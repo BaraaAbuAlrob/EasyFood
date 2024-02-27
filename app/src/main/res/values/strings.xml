@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EasyFood</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="categories_blank_fragment">Categories blank fragment</string>
+    <string name="favorites_blank_fragment">Favorites Blank Fragment</string>
+    <string name="home_blank_fragment">Home Blank Fragment</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="categories">Categories</string>
+    <string name="what_would_you_like_to_eat">What would you like to eat</string>
+    <string name="random_meals">Random meals</string>
+    <string name="over_popular_items">Over popular items</string>
+    <string name="for_add_the_meal_to_my_favorites">For add the meal to my favorites</string>
+    <string name="instructions">- Instructions :</string>
+    <string name="open_a_link_to_youtube_video">Open a link to youtube video</string>
+    <string name="random_meal_image">Random meal image</string>
+    <string name="popular_item_img">Popular item img</string>
+    <string name="category_name">Category Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_meals">Search meals...</string>
+    <string name="welcome_to_easy_food">Easy Food</string>
+</resources>
